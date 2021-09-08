@@ -1,2 +1,2 @@
-service=gaming-tikiwiki
+bundle=gaming-tikiwiki
 pod_args='-p 19880:80'
